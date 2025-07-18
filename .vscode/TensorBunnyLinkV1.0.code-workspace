@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../CandCppproject/2025.5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TensorBunnyLinkV1.0",
+		"java.compile.nullAnalysis.mode": "automatic"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}

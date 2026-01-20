@@ -14,7 +14,7 @@ LapinEX 无障碍数据手套AIoT系统，获2025全国大学生计算机设计�
 
 下面我为广大二次开发者详细梳理一套可行的系统架构与实现建议，结合了 opengloves-ui-0.4.2 等相关思路。
 
-![照片](https://github.com/PaxonHuang/Echo1-SLRGloves/blob/main/EchoGloveWithMe.jpg)
+![照片](https://github.com/PaxonHuang/Echo1-SLRGloves/blob/main/EchoGlove2.jpg)
 
 ---
 

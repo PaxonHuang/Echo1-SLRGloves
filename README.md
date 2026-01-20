@@ -13,7 +13,9 @@ LapinEX 无障碍数据手套AIoT系统，获2025全国大学生计算机设计�
 - 用 Unity 实时渲染手部 3D 动画，实现跨平台 VR/AR 数据手套  
 
 下面我为广大二次开发者详细梳理一套可行的系统架构与实现建议，结合了 opengloves-ui-0.4.2 等相关思路。
-https://github.com/PaxonHuang/Echo1-SLRGloves/blob/main/EchoGloveWithMe.jpg
+
+![照片](https://github.com/PaxonHuang/Echo1-SLRGloves/blob/main/EchoGloveWithMe.jpg)
+
 ---
 
 ## 1. 系统总体架构和整体解决方案框架
